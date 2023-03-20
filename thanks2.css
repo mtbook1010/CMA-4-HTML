@@ -1,0 +1,310 @@
+.thanks2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.thanks2-header {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  z-index: 999;
+  position: fixed;
+  box-shadow: 0px 4px 12px 0px rgba(43, 63, 83, 0.07999999821186066) ;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.thanks2-frame1625 {
+  width: 100%;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 12px;
+  border-color: transparent;
+  padding-left: 48px;
+  margin-bottom: 0px;
+  padding-right: 48px;
+  padding-bottom: 12px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.thanks2-frame1626 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 1200px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.thanks2-group2372 {
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.thanks2-link {
+  display: contents;
+}
+.thanks2-image {
+  width: 353px;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}
+.thanks2-frame23676 {
+  gap: 48px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 100px;
+  border-color: transparent;
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  padding-left: 48px;
+  margin-bottom: 0px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 64px;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.thanks2-container1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: 1080px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.thanks2-container2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+  flex-direction: column;
+  justify-content: center;
+}
+.thanks2-frame23630 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.thanks2-frame2397 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: flex-start;
+}
+.thanks2-frame2403 {
+  flex: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: row;
+  justify-content: center;
+}
+.thanks2-container3 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.thanks2-frame23600 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.thanks2-frame23595 {
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: rgba(43, 63, 83, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.thanks2-text {
+  color: rgb(43, 63, 83);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thanks2-frame2377 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.thanks2-text01 {
+  color: rgb(43, 63, 83);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 120%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thanks2-text02 {
+  color: rgb(43, 63, 83);
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 180%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thanks2-link1 {
+  display: contents;
+}
+.thanks2-frame1622 {
+  display: flex;
+  padding: 18px 36px;
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  transition: 0.3s;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #2b3f53;
+}
+.thanks2-frame1622:hover {
+  transform: scale(1.02);
+}
+.thanks2-text14 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .thanks2-frame23676 {
+    padding-top: 80px;
+    padding-bottom: 64px;
+  }
+  .thanks2-container1 {
+    height: auto;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .thanks2-container2 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: auto;
+    justify-content: flex-start;
+  }
+}
+@media(max-width: 767px) {
+  .thanks2-frame1625 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .thanks2-frame23676 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+@media(max-width: 479px) {
+  .thanks2-frame1625 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .thanks2-group2372 {
+    flex: 1;
+    height: auto;
+  }
+  .thanks2-image {
+    flex: 1;
+    width: 100%;
+  }
+  .thanks2-frame23676 {
+    padding-top: 80px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .thanks2-container1 {
+    gap: 0;
+    height: auto;
+  }
+  .thanks2-frame2397 {
+    justify-content: flex-start;
+  }
+  .thanks2-container3 {
+    align-items: flex-start;
+  }
+  .thanks2-text01 {
+    font-size: 28px;
+  }
+  .thanks2-text02 {
+    font-size: 13px;
+    text-align: left;
+  }
+  .thanks2-frame1622 {
+    width: 100%;
+  }
+}
