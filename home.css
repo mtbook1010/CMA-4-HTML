@@ -44,7 +44,7 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.home-container05 {
+.home-cta {
   width: 375px;
   height: auto;
   display: flex;
@@ -75,6 +75,25 @@
   height: 22px;
   position: relative;
 }
+.home-camp {
+  width: 375px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.home-container05 {
+  flex: 1;
+  width: 1000px;
+  height: 375px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("public/playground_assets/frame%2023750-1000w.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .home-container06 {
   width: 375px;
   height: auto;
@@ -85,12 +104,12 @@
 .home-container07 {
   flex: 1;
   width: 1000px;
-  height: 375px;
+  height: 528px;
   display: flex;
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/frame%2023750-1000w.webp");
+  background-image: url("public/playground_assets/frame%2023767-1000w.webp");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -104,14 +123,45 @@
 .home-container09 {
   flex: 1;
   width: 1000px;
-  height: 528px;
+  height: 1279.96px;
   display: flex;
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/frame%2023767-1000w.webp");
+  background-image: url("public/playground_assets/frame%2023771-1000w.webp");
   background-repeat: no-repeat;
   background-position: center;
+}
+.home-cta1 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.home-frame237691 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  padding: 20px 0;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(250, 250, 250, 1);
+}
+.home-group242411 {
+  width: 317px;
+  height: 98px;
+  position: relative;
+  margin-bottom: 12px;
+}
+.home-group242511 {
+  width: 146px;
+  height: 22px;
+  position: relative;
 }
 .home-container10 {
   width: 375px;
@@ -123,12 +173,12 @@
 .home-container11 {
   flex: 1;
   width: 1000px;
-  height: 1279.96px;
+  height: 1935.08px;
   display: flex;
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/frame%2023771-1000w.webp");
+  background-image: url("public/playground_assets/frame%2023777-1000w.webp");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -142,25 +192,6 @@
 .home-container13 {
   flex: 1;
   width: 1000px;
-  height: 1935.08px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  background-size: cover;
-  background-image: url("public/playground_assets/frame%2023777-1000w.webp");
-  background-repeat: no-repeat;
-  background-position: center;
-}
-.home-container14 {
-  width: 375px;
-  height: auto;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: row;
-}
-.home-container15 {
-  flex: 1;
-  width: 1000px;
   height: 896.26px;
   display: flex;
   align-items: center;
@@ -170,14 +201,64 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.home-container16 {
+.home-camp1 {
   width: 375px;
   height: auto;
   display: flex;
   align-items: flex-start;
   flex-direction: row;
 }
-.home-container17 {
+.home-container14 {
+  flex: 1;
+  width: 1000px;
+  height: 375px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("public/playground_assets/frame%2023750-1000w.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.home-cta2 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.home-frame237692 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  padding: 20px 0;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(250, 250, 250, 1);
+}
+.home-group242412 {
+  width: 317px;
+  height: 98px;
+  position: relative;
+  margin-bottom: 12px;
+}
+.home-group242512 {
+  width: 146px;
+  height: 22px;
+  position: relative;
+}
+.home-container15 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.home-container16 {
   flex: 1;
   width: 1000px;
   height: 1530.5px;
@@ -189,14 +270,14 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.home-container18 {
+.home-container17 {
   width: 375px;
   height: auto;
   display: flex;
   align-items: flex-start;
   flex-direction: row;
 }
-.home-container19 {
+.home-container18 {
   flex: 1;
   width: 1000px;
   height: 240px;
@@ -208,14 +289,14 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.home-container20 {
+.home-container19 {
   width: 375px;
   height: auto;
   display: flex;
   align-items: flex-start;
   flex-direction: row;
 }
-.home-container21 {
+.home-container20 {
   flex: 1;
   width: 1000px;
   height: 703.1px;
@@ -227,7 +308,57 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+.home-container21 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
 .home-container22 {
+  flex: 1;
+  width: 1000px;
+  height: 907px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("public/playground_assets/frame%2023818-1000w.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.home-cta3 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.home-frame237693 {
+  width: 375px;
+  height: auto;
+  display: flex;
+  padding: 20px 0;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(250, 250, 250, 1);
+}
+.home-group242413 {
+  width: 317px;
+  height: 98px;
+  position: relative;
+  margin-bottom: 12px;
+}
+.home-group242513 {
+  width: 146px;
+  height: 22px;
+  position: relative;
+}
+.home-camp2 {
   width: 375px;
   height: auto;
   display: flex;
@@ -237,12 +368,12 @@
 .home-container23 {
   flex: 1;
   width: 1000px;
-  height: 907px;
+  height: 375px;
   display: flex;
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/frame%2023818-1000w.webp");
+  background-image: url("public/playground_assets/frame%2023750-1000w.webp");
   background-repeat: no-repeat;
   background-position: center;
 }
