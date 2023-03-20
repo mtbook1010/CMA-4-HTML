@@ -663,6 +663,9 @@
   justify-content: flex-start;
   background-color: transparent;
 }
+.form2-link {
+  display: contents;
+}
 .form2-image1 {
   width: 353px;
   height: auto;

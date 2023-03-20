@@ -68,6 +68,9 @@
   justify-content: flex-start;
   background-color: transparent;
 }
+.form-link {
+  display: contents;
+}
 .form-image {
   width: 353px;
   height: auto;
