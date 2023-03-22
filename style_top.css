@@ -8,7 +8,8 @@
 }
 
 .home-image2 {
-    width: 353px;
+    width: 100%;
+    max-width: 400px;
     height: auto;
     object-fit: cover;
     text-decoration: none;
