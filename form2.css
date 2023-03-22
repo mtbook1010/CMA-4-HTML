@@ -1,3 +1,148 @@
+.footer-frame23823 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 24px 16px;
+  position: relative;
+  max-width: 500px;
+  align-self: center;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-black2);
+  background-image: linear-gradient(150deg, rgba(43, 62, 83, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+.footer-frame23667 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 24px;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer-image {
+  width: 100%;
+  max-width: 343px;
+  object-fit: cover;
+  margin-bottom: 24px;
+}
+.footer-frame1621 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer-frame23819 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.footer-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 16px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.footer-rectangle14 {
+  width: 1px;
+  height: 9px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.footer-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.footer-frame23820 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.footer-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 16px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.footer-rectangle20 {
+  width: 1px;
+  height: 9px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.footer-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.footer-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+
+
 .form2-container {
   width: 100%;
   display: flex;
@@ -465,148 +610,6 @@
   border-width: 0px;
   background-color: rgb(43, 63, 83);
 }
-.form2-frame23823 {
-  width: 100%;
-  height: auto;
-  display: flex;
-  padding: 24px 16px;
-  position: relative;
-  max-width: 500px;
-  align-self: center;
-  align-items: center;
-  border-color: transparent;
-  flex-direction: column;
-  justify-content: center;
-  background-color: var(--dl-color-default-black2);
-  background-image: linear-gradient(150deg, rgba(43, 62, 83, 1) 0%, rgba(0, 0, 0, 1) 100%);
-}
-.form2-frame23667 {
-  width: 100%;
-  display: flex;
-  position: relative;
-  align-self: stretch;
-  align-items: center;
-  border-color: transparent;
-  margin-bottom: 24px;
-  flex-direction: column;
-  justify-content: center;
-}
-.form2-image {
-  width: 100%;
-  max-width: 343px;
-  object-fit: cover;
-  margin-bottom: 24px;
-}
-.form2-frame1621 {
-  display: flex;
-  position: relative;
-  align-items: center;
-  border-color: transparent;
-  flex-direction: column;
-  justify-content: center;
-}
-.form2-frame23819 {
-  display: flex;
-  position: relative;
-  align-items: center;
-  border-color: transparent;
-  margin-bottom: 16px;
-}
-.form2-text20 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 12px;
-  align-self: auto;
-  font-style: Semi Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 100%;
-  font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
-  text-decoration: none;
-}
-.form2-rectangle14 {
-  width: 1px;
-  height: 9px;
-  position: relative;
-  border-color: transparent;
-  margin-right: 16px;
-}
-.form2-text22 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 12px;
-  align-self: auto;
-  font-style: Semi Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 100%;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
-}
-.form2-frame23820 {
-  display: flex;
-  position: relative;
-  align-items: center;
-  border-color: transparent;
-}
-.form2-text24 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 12px;
-  align-self: auto;
-  font-style: Semi Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 100%;
-  font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
-  text-decoration: none;
-}
-.form2-rectangle20 {
-  width: 1px;
-  height: 9px;
-  position: relative;
-  border-color: transparent;
-  margin-right: 16px;
-}
-.form2-text26 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 12px;
-  align-self: auto;
-  font-style: Semi Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 100%;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
-}
-.form2-text28 {
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  font-size: 10px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 100%;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
-}
 .form2-header {
   top: 0px;
   left: 0px;
@@ -666,7 +669,7 @@
 .form2-link {
   display: contents;
 }
-.form2-image1 {
+.form2-image {
   width: 353px;
   height: auto;
   object-fit: cover;
@@ -742,7 +745,7 @@
     flex: 1;
     height: auto;
   }
-  .form2-image1 {
+  .form2-image {
     flex: 1;
     width: 100%;
   }
