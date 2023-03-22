@@ -6,3 +6,10 @@
     width: 100%;
     max-width: 500px;
 }
+
+.home-image2 {
+    width: 353px;
+    height: auto;
+    object-fit: cover;
+    text-decoration: none;
+  }
