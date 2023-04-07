@@ -439,6 +439,7 @@
   width: 100%;
   height: 1320px;
   max-width: 720px;
+  overflow-y: hidden;
 }
 @media(max-width: 991px) {
   .form-frame23676 {
@@ -462,6 +463,7 @@
   }
   .form-div {
     height: 1326px;
+    overflow-y: hidden;
   }
 }
 @media(max-width: 767px) {
@@ -485,6 +487,7 @@
   }
   .form-div {
     height: 1341px;
+    overflow-y: hidden;
   }
 }
 @media(max-width: 479px) {
@@ -606,5 +609,6 @@
   }
   .form-div {
     height: 1500px;
+    overflow-y: hidden;
   }
 }
